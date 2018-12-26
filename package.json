@@ -1,0 +1,25 @@
+{
+  "name": "npm-lab-flatiron-staff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-d-d-dalia/npm-lab-flatiron-staff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-d-d-dalia/npm-lab-flatiron-staff/issues"
+  },
+  "homepage": "https://github.com/d-d-d-dalia/npm-lab-flatiron-staff#readme",
+  "dependencies": {
+    "moment": "^2.23.0"
+  }
+}
